@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'tracking-azurebot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8236E5560609403682C8CDC40ABC7E8A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_950692CC786B44C18DFBDB148347A10A }}
           package: .
